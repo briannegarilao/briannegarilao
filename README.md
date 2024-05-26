@@ -12,7 +12,7 @@ I'm Mark Brian Garilao, a dedicated student with a focus on Computer Science. We
 #### Get in Touch
 
 - 💬 Feel free to reach out if you have any questions about Computer Science studies or if you'd like to discuss something.
-- 📫 You can connect with me via email at briannegarilao@gmail.com or through my [LinkedIn Profile](linkedin.com/in/briannegarilao).
+- 📫 You can connect with me via email at briannegarilao@gmail.com or through my [LinkedIn Profile](https://www.linkedin.com/in/briannegarilao).
 - 😄 Pronouns: He/Him, Try/Me.
 
 #### Fun Facts and Interests
