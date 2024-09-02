@@ -20,11 +20,13 @@ I'm Mark Brian Garilao, a dedicated student with a focus on Computer Science. We
 - ⚡ Fun fact: In my spare time, I'm an avid bookworm with a goal of reading more books this year. The most unusual place I've ever gotten lost in a book was in a bus.
 - 🚀 Outside of coding and work, I enjoy sleeping and eating.
 
-#### Repository Highlights
+Thank you for visiting my GitHub profile, and happy coding! 🌟
 
 <!--
+#### Repository Highlights
+
 **briannegarilao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Feel free to explore my repositories and check out some of the projects I'm proud of. If you have any questions or if you're interested in collaborating, I'm just a message away.
 
-Thank you for visiting my GitHub profile, and happy coding! 🌟
+
