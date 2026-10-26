@@ -66,18 +66,6 @@ The goal is to design a platform that processes financial events, supports recon
 
 ---
 
-## Experience Beyond Projects
-
-**Data & Automations Engineering — Fit 4 Life / Warren**
-
-Worked on business workflows and integrations across Google Sheets, Apps Script, Google Forms, Close CRM, ConvertKit, and Trainerize.
-
-- Automated lead capture and follow-up workflows to reduce repetitive manual work.
-- Helped streamline CRM processes and connect business systems.
-- Built practical experience in data handling, workflow logic, integrations, and process improvement.
-
----
-
 ## Education
 
 **B.S. Computer Science — Intelligent Systems**  
